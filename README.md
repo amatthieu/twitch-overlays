@@ -1,5 +1,9 @@
 # twitch-overlays
 
+My twitch components & overlays for my stream.
+
+Added routes for each view (chatting/waiting/playing) or component (chat/countdown).
+
 ## Project setup
 ```
 npm install
