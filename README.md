@@ -22,6 +22,12 @@ Countdown before stream really begins.
 
 Countdown before stream shutdown.
 
+## Project techs
+
+I'm using Vue.js 2 with the plugin that permits to test the new hooks that are coming in Vue.js 3.
+
+I'm using a minimum of libs (the lesser the better) and make straight calls to twitch api.
+
 ## Project setup
 ```
 npm install
